@@ -30,6 +30,12 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 - Programming in Python, low-code for beginners, full code available for tuning
 - Programming in Google Colab, on Laptop
 
+## DAY 1:
+
+# **1. Create a Dandi Archive account**
+
+* Your DANDI account requires up to 2 business days for approval
+* You contact the DANDI admins at help@dandiarchive.org if you have any questions.
 
 ## Theory: From neural tuning to manifolds [DONE]
 
