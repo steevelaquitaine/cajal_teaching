@@ -161,6 +161,22 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 * Gardner, R. J., Hermansen, E., Pachitariu, M., Burak, Y., Baas, N. A., Dunn, B. A., ... & Moser, E. I. (2022). Toroidal topology of population activity in grid cells. Nature, 602(7895), 123-128.
 
+## Hands-on: Model selection
+
+## Hands-on: Decoding with conv pivae
+
+## Hands-on: Decoding V1
+
+## Hands-on: Information capacity
+
+## Hands-on: Use Allen Institute SDK
+
+## Hands-on: Use Dandi Archive
+
+## Hands-on: Use Figshare
+
+## Hands-on: Use dataryad
+
 # Notebooks
 
 ## Theory 
