@@ -1,6 +1,6 @@
 # CAJAL 2024
 
-author: steeve.laquitaine@epfl.ch; laquitainesteeve@gmail.com  
+Author and instructor: steeve.laquitaine@epfl.ch; laquitainesteeve@gmail.com  
 For the Cajal advanced training course, 2024, Bordeaux
 
 ## Abstract
