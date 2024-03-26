@@ -166,7 +166,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## **7. Hands-on: navigation neural manifold with discovery analysis in rat's HPC
+## **7. Hands-on: navigation neural manifold with discovery analysis in rat's HPC**
 
 **Learning outcomes:**
 
