@@ -28,11 +28,11 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 - Programming in Python, low-code for beginners, full code available for tuning
 - Programming in Google Colab, on Laptop
 
-## **1. Prerequisites (DAY 1)**
+## **0. Prerequisites (DAY 1)**
 
 **Notebooks**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/0_Prerequisites.ipynb).
 
-## **2. Theory: From neural tuning to manifolds**
+## **1. Theory: From neural tuning to manifolds**
 
 **Learning outcomes**:
 
@@ -51,7 +51,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 **Notebooks**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/1_Tuning_to_Manifolds.ipynb).
   
-## **3. Theory: Manifold dimensionality**
+## **2. Theory: Manifold dimensionality**
 
 **Learning outcome**:  
 
@@ -66,7 +66,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
   
 **Notebooks**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/2_Manifold_dimensionality.ipynb).
 
-## 3. Hands-on: PCA-based manifolds
+## **3. Hands-on: PCA-based manifolds**
 
 **Learning outcomes:**  
   * Know how to <u>compute manifolds for large populations of neurons</u>, using a simple machine learning technique, `PCA`.
@@ -85,7 +85,8 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 **Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/3_PCA_based_manifolds.ipynb).
 
 
-## Hands-on: Cebra beats them all
+
+## **4. Hands-on: Cebra beats them all**
 
 **Learning outcomes:**
 
@@ -117,7 +118,9 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 **Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/4_Cebra_beats_them_all.ipynb).
 
-## Hands-on: movement neural manifold in primate's S1 (InfoNCE loss)
+
+
+## **5. Hands-on: movement neural manifold in primate's S1 (InfoNCE loss)**
 
 **Learning outcomes:**
   * Know how to <u>use CEBRA to compute neural manifolds</u> from the monkey's primary somatosensory cortex (S1), for variables of a reaching task.
@@ -139,7 +142,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## Hands-on: movement neural manifold in primate's S1 (MSE loss)
+## **6. Hands-on: movement neural manifold in primate's S1 (MSE loss)**
 
 **Learning outcomes:**
   * Know how to <u>train CEBRA to compute neural manifolds</u> by minimizing the `mean squared error (MSE) loss`.
@@ -163,16 +166,29 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## Hands-on: Cebra discovery-driven rat HPC [DONE]
+## **7. Hands-on: navigation neural manifold with discovery analysis in rat's HPC
 
 **Learning outcomes:**
+
   * know how to perform a <u>discovery-driven analysis</u> to <u>explore the neural manifolds</u> with `CEBRA-Time`.
   * know how to <u>save a trained model</u> for later re-use.
 
 **Method:**
+
   * Students study the paper section on the task, describe its design and objectives.
 
-**Readings:** Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368.
+**Readings:** 
+
+* Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368.
+
+**Python prerequisites:**
+
+* installing and importing `libraries`
+* plotting with `matplotlib` library
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/7_handson_navigation_manifold_discovery_driven_analysis_rat.ipynb).
+
+
 
 ## Hands-on: Cebra hypothesis-testing rat HPC part1 [DONE]
 
