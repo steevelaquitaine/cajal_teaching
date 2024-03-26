@@ -47,6 +47,12 @@ Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-b
 
 **Notebooks**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/1_Tuning_to_Manifolds.ipynb).
 
+**Python prerequisites**
+
+* installing and importing libraries
+* functions
+* plotting
+  
 ## **3. Theory: Manifold dimensionality**
 
 **Learning outcome**:  
@@ -62,7 +68,7 @@ Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-b
 
 **Notebooks**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/2_Manifold_dimensionality.ipynb).
 
-# 3. Hands-on: Manifolds with PCA [DONE]
+# 3. Hands-on: PCA-based manifolds
 
 **Learning outcomes:**  
   * Know how to <u>compute manifolds for large populations of neurons</u>, using a simple machine learning technique, `PCA`.
@@ -70,8 +76,15 @@ Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-b
   * Know how the manifold geometry depends on its individual neurons' tuning functions. 
   * Know how to <u>measure the dimensionality of neural manifolds</u>, with `PCA`.
 
-**Notebook**: `2_Manifolds_with_PCA.ipynb`  
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/3_PCA_based_manifolds.ipynb).
+
 **Readings**: Kriegeskorte, N., & Wei, X. X. (2021). Neural tuning and representational geometry. Nature Reviews Neuroscience, 22(11), 703-718.
+
+**Python prerequisites**
+
+* installing and importing libraries
+* functions
+* plotting
 
 ## Hands-on: Manifolds with advanced ML [TODO] ...
 
