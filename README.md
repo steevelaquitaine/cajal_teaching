@@ -36,9 +36,9 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 **Notebooks**:
 
-0. Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/0_Prerequisites.ipynb).
+Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/0_Prerequisites.ipynb).
 
-## Theory: From neural tuning to manifolds [DONE]
+## Theory: From neural tuning to manifolds
 
 **Learning outcomes**:
 
@@ -48,6 +48,10 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 * Recognize the <u>different types of underlying neural codes</u> ("splitter", "lumper")
 
 **Readings**: Kriegeskorte and Wei, “Neural Tuning and Representational Geometry.”
+
+**Notebooks**:
+
+Tuning to Manifolds [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/1_Tuning_to_Manifolds.ipynb).
 
 ## Theory: Why does population analysis matter? [DOING] ...
 
