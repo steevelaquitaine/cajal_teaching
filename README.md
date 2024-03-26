@@ -32,10 +32,11 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 ## DAY 1:
 
-# **1. Create a Dandi Archive account**
+# **1. Prerequisites**
 
-* Your DANDI account requires up to 2 business days for approval
-* You contact the DANDI admins at help@dandiarchive.org if you have any questions.
+**Notebooks**:
+
+0. Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/0_Prerequisites.ipynb).
 
 ## Theory: From neural tuning to manifolds [DONE]
 
