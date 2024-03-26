@@ -94,9 +94,22 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 **Method**:
 
-  * Students study the paper section on the generation of the synthetic dataset, describe the design and its objectives in class.
+  * With the students, we study the paper section on the generation of the synthetic dataset, describe the design and its objectives in class.
 
-**Readings:** Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368.
+**Readings:** 
+
+* Cunningham, J. P., & Yu, B. M. (2014). Dimensionality reduction for large-scale neural recordings. Nature neuroscience, 17(11), 1500-1509.
+* Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368.
+* Gokcen, E. (2023). Disentangling communication across populations of neurons (Doctoral dissertation, Carnegie Mellon Univers
+* Altan, E., Solla, S. A., Miller, L. E., & Perreault, E. J. (2021). Estimating the dimensionality of the manifold underlying multi-electrode neural recordings. PLoS computational biology, 17(11), e1008591.
+
+**Python prerequisites**
+
+* installing and importing `libraries`
+* using `functions`
+* plotting with `matplotlib` library
+* basics of `scikit-learn` software for machine learning
+* basics of `Keras` for Deep Learning
 
 **Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/4_Cebra_beats_them_all.ipynb).
 
