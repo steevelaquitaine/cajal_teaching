@@ -190,7 +190,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## **8. Hands-on: navigation neural manifold with hypothesis testing in rat's HPC (part 1)**
+## **8. Hands-on: navigation neural manifold with hypothesis testing in rat's HPC**
 
 **Learning outcomes:**
   * know how to perform a more targetted <u>hypothesis-driven analyses</u>, with `CEBRA-Behavior` mode. We will qualitatively test whether both position and direction are encoded in the rat Hippocampus, by using a <u>control</u> manifold.
@@ -208,13 +208,26 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## Hands-on: Cebra hypothesis selection rat HPC [DONE]
+
+## **9. Hands-on: navigation manifold model selection in rat's HPC**
 
 **Learning outcomes:**
 
   * Know how to <u>evaluate several hypotheses and select the best</u>. We will test whether position only, direction only and position and direction are encoded in the rat Hippocampus.
 
-**Readings:** Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368. see [Figure 2](https://cebra.ai/docs/cebra-figures/figures/Figure2.html) in Schneider, Lee, Mathis.
+**Readings:** 
+
+  * Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368. see [Figure 2](https://cebra.ai/docs/cebra-figures/figures/Figure2.html) in Schneider, Lee, Mathis.
+
+**Python prerequisites:**
+
+* installing and importing `libraries`
+* plotting with `matplotlib` library
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/9_handson_navigation_manifold_model_selection_rat.ipynb).
+
+
+
 
 ## Hands-on: Hybrid approach rat HPC [DONE]
 
