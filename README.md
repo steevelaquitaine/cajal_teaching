@@ -43,7 +43,7 @@ Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-b
 * Know how to <u>link individual neurons' tuning functions</u> and <u> population manifolds</u> in the absence of noise (simplification). 
 * Recognize the <u>different types of underlying neural codes</u> ("splitter", "lumper")
 
-**Readings**: Kriegeskorte and Wei, “Neural Tuning and Representational Geometry.”
+**Readings**: Kriegeskorte, N., & Wei, X. X. (2021). Neural tuning and representational geometry. Nature Reviews Neuroscience, 22(11), 703-718.
 
 **Notebooks**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/1_Tuning_to_Manifolds.ipynb).
 
@@ -71,7 +71,7 @@ Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-b
   * Know how to <u>measure the dimensionality of neural manifolds</u>, with `PCA`.
 
 **Notebook**: `2_Manifolds_with_PCA.ipynb`  
-**Readings**: Kriegeskorte and Wei, “Neural Tuning and Representational Geometry.”
+**Readings**: Kriegeskorte, N., & Wei, X. X. (2021). Neural tuning and representational geometry. Nature Reviews Neuroscience, 22(11), 703-718.
 
 ## Hands-on: Manifolds with advanced ML [TODO] ...
 
