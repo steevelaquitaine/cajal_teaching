@@ -85,30 +85,20 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 **Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/3_PCA_based_manifolds.ipynb).
 
 
-## Hands-on: Manifolds with advanced ML [TODO] ...
-
-**Learning outcomes:**  
-  * Know how to <u>compute manifolds</u> from large neuron populations with `advanced machine learning`, in the absence of noise (simplification).
-
-## Hands-on: manifolds with advanced ML in the rat HPC [TODO] ...
-
-**Learning outcomes:**
-* Know how to <u>compute manifolds</u> from large neuron populations with `advanced machine learning`, on real data.
-
-**Method**:
-* Students study the paper section on the task, describe the design and its objectives in class.
-
-**Readings:** Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368.
-
 ## Hands-on: Cebra beats them all [DONE]
 
 **Learning outcomes:**
-* Know how to <u>benchmark advanced machine learning techniques</u> on a synthetic dataset, using a `linear reconstruction score`.
+
+  * Know how to <u>compute manifolds</u> from large neuron populations with `advanced machine learning`, on real data.
+  * Know how to <u>benchmark advanced machine learning techniques</u> on a synthetic dataset, using a `linear reconstruction score`.
 
 **Method**:
-* Students study the paper section on the generation of the synthetic dataset, describe the design and its objectives in class.
+
+  * Students study the paper section on the generation of the synthetic dataset, describe the design and its objectives in class.
 
 **Readings:** Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368.
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/4_Cebra_beats_them_all.ipynb).
 
 ## Hands-on: Cebra movement monkey S1 (InfoNCE loss) [DONE]
 
