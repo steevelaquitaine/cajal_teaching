@@ -30,9 +30,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 - Programming in Python, low-code for beginners, full code available for tuning
 - Programming in Google Colab, on Laptop
 
-## DAY 1:
-
-# **1. Prerequisites**
+# **1. Prerequisites (DAY 1)**
 
 **Notebooks**:
 
