@@ -28,13 +28,13 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 - Programming in Python, low-code for beginners, full code available for tuning
 - Programming in Google Colab, on Laptop
 
-# **1. Prerequisites (DAY 1)**
+## **1. Prerequisites (DAY 1)**
 
 **Notebooks**:
 
 Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/0_Prerequisites.ipynb).
 
-## Theory: From neural tuning to manifolds
+## **2. Theory: From neural tuning to manifolds**
 
 **Learning outcomes**:
 
@@ -47,7 +47,7 @@ Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-b
 
 **Notebooks**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/1_Tuning_to_Manifolds.ipynb).
 
-# 2. Theory: Manifold dimensionality
+## **3. Theory: Manifold dimensionality**
 
 **Learning outcome**:  
 
