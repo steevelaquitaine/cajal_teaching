@@ -270,7 +270,26 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## Hands-on: Merging sessions [DONE]
+## 12. Hands-on: more data and generalizable encoding
+
+
+**Learning outcomes**:  
+  
+  * Know when and how to <u>merge multiple sessions</u> of a subject together
+  * Practice the use of `consistency metrics`
+    
+**Readings:** 
+
+  * Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368. see [Figure 1](https://cebra.ai/docs/cebra-figures/figures/Figure1.html) in Schneider, Lee, Mathis.
+
+**Python prerequisites:**
+
+  * installing and importing `libraries`
+  * using `functions`
+  * plotting with `matplotlib` library
+  
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/12_handson_more_data_and_generalizable_encoding.ipynb).
+
 
 
 
