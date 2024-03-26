@@ -117,7 +117,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 **Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/4_Cebra_beats_them_all.ipynb).
 
-## Hands-on: Cebra movement monkey S1 (InfoNCE loss) [DONE]
+## Hands-on: movement neural manifold in primate's S1 (InfoNCE loss)
 
 **Learning outcomes:**
   * Know how to <u>use CEBRA to compute neural manifolds</u> from the monkey's primary somatosensory cortex (S1), for variables of a reaching task.
@@ -126,7 +126,16 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 **Method:**
   * Students study the paper section on the task, describe its design and objectives.
 
-**Readings:** Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368.
+**Readings**:
+
+* Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368. Shown in Fig. 3, Extended Data Fig. 8
+
+**Python prerequisites**:
+
+* installing and importing `libraries`
+* plotting with `matplotlib` library
+  
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/5_handson_movement_manifold_primate_S1_infoNCE_loss.ipynb).
 
 ## Hands-on: Cebra movement monkey S1 (MSE loss) [TO CLEAN]
 
