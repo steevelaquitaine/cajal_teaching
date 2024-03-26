@@ -49,19 +49,22 @@ Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-b
 
 **Readings**: Kriegeskorte and Wei, “Neural Tuning and Representational Geometry.”
 
-**Notebooks**:
+**Notebooks**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/1_Tuning_to_Manifolds.ipynb).
 
-Tuning to Manifolds [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/1_Tuning_to_Manifolds.ipynb).
+## Theory: Manifold dimensionality
 
-## Theory: Why does population analysis matter? [DOING] ...
+**Learning outcome**:  
 
-**Learning outcomes**:
-* Know the <u>limitations of single neuron analysis</u>.
-* Recognize the <u>problems suitable for population analysis</u>; when it is more insighful.
+  * Know what manifold dimensionality is and why it matters.
+  * Know the factors that determine the manifold's dimensionality and how.
 
-**Readings**: Cuningham Yu, Dimensionality reduction for large scale neural recordings
+**Readings**:
 
-## Theory: Manifold geometry [DOING] ...
+  * Wärnberg and Kumar, “Perturbing Low Dimensional Activity Manifolds in Spiking Neuronal Networks.”
+  * Rigotti, M., Barak, O., Warden, M. R., Wang, X. J., Daw, N. D., Miller, E. K., & Fusi, S. (2013). The importance of mixed selectivity in complex cognitive tasks. Nature, 497(7451), 585-590.
+  * Cunningham, J. P., & Yu, B. M. (2014). Dimensionality reduction for large-scale neural recordings. Nature neuroscience, 17(11), 1500-1509.
+
+**Notebooks**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/1_Manifold_dimensionality.ipynb).
 
 ## Hands-on: Manifolds with PCA [DONE]
 
