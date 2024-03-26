@@ -229,7 +229,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## 10. Hands-on: Hybrid approach
+## **10. Hands-on: Hybrid approach**
 
 **Learning outcomes**:  
 
@@ -248,14 +248,31 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## Hands-on: Manifolds' consistency [DONE]
+
+## **11. Hands-on: Manifold's consistency**
 
 **Learning outcomes**:  
-  * know how to use CEBRA to compute <u>consistency metrics and maps</u> between the manifolds of many subjects.
+  
+  * know how to use CEBRA to measure the <u>consistency</u> of manifolds across subjects.
 
-**Readings:** Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368. see [Figure 1](https://cebra.ai/docs/cebra-figures/figures/Figure1.html) in Schneider, Lee, Mathis.
+**Readings:** 
+
+  * Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368. see [Figure 1](https://cebra.ai/docs/cebra-figures/figures/Figure1.html) in Schneider, Lee, Mathis.
+
+**Python prerequisites:**
+
+  * installing and importing `libraries`
+  * plotting with `matplotlib` library
+  
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/11_handson_navigation_manifold_consistency_metrics_rat_hpc.ipynb).
+
+
+
+
 
 ## Hands-on: Merging sessions [DONE]
+
+
 
 
 ## Hands-on: Topology data analysis [DONE]
