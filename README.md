@@ -229,12 +229,24 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## Hands-on: Hybrid approach rat HPC [DONE]
+## 10. Hands-on: Hybrid approach
 
 **Learning outcomes**:  
+
   * know how to use <u>CEBRA-Hybrid</u>. We will test whether position and direction and time are encoded in the rat Hippocampus.
 
-**Readings:** Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368. see [Figure 2](https://cebra.ai/docs/cebra-figures/figures/Figure2.html) in Schneider, Lee, Mathis.
+**Readings:** 
+
+  * Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368. see [Figure 2](https://cebra.ai/docs/cebra-figures/figures/Figure2.html) in Schneider, Lee, Mathis.
+
+**Python prerequisites:**
+
+* installing and importing `libraries`
+* plotting with `matplotlib` library
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/10_handson_navigation_manifold_hybrid_rat.ipynb).
+
+
 
 ## Hands-on: Manifolds' consistency [DONE]
 
