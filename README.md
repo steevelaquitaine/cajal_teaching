@@ -91,7 +91,8 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
   * Know how to <u>compute manifolds</u> from large neuron populations with `advanced machine learning`, on real data.
   * Know how to <u>benchmark advanced machine learning techniques</u> on a synthetic dataset, using a `linear reconstruction score`.
-
+  * Know what <u>identifiability</u> is and why it matters.
+    
 **Method**:
 
   * With the students, we study the paper section on the generation of the synthetic dataset, describe the design and its objectives in class.
