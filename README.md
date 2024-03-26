@@ -68,7 +68,7 @@ Prerequisites [![Open In Colab](https://colab.research.google.com/assets/colab-b
 
 **Notebooks**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/2_Manifold_dimensionality.ipynb).
 
-# 3. Hands-on: PCA-based manifolds
+## 3. Hands-on: PCA-based manifolds
 
 **Learning outcomes:**  
   * Know how to <u>compute manifolds for large populations of neurons</u>, using a simple machine learning technique, `PCA`.
