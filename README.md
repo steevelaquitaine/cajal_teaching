@@ -405,12 +405,6 @@ Modern technical innovations now allow experimentalists to measure and manipulat
   * https://github.com/steevelaquitaine/neural_manifolds_replicaMFT_Cajal/blob/master/examples/MFTMA_VGG16_example.ipynb
 
 
-
-* **Readings**
-
-  * Stephenson, C., Feather, J., Padhy, S., Elibol, O., Tang, H., McDermott, J., & Chung, S. (2019). Untangling in invariant speech recognition. Advances in neural information processing systems, 32.
-  * https://github.com/steevelaquitaine/neural_manifolds_replicaMFT_Cajal/blob/master/examples/MFTMA_VGG16_example.ipynb
-
 **Python prerequisites**:
 
   * installing and importing `libraries`
