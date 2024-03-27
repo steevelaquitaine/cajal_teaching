@@ -399,15 +399,12 @@ Modern technical innovations now allow experimentalists to measure and manipulat
   * Know how to measure its layers' neural manifold geometry (`dimensionality`, `radius`, `correlation`)
   * Know how to measure its `information capacity`
 
+**Readings**:
+
+  * Stephenson, C., Feather, J., Padhy, S., Elibol, O., Tang, H., McDermott, J., & Chung, S. (2019). Untangling in invariant speech recognition. Advances in neural information processing systems, 32.
+  * https://github.com/steevelaquitaine/neural_manifolds_replicaMFT_Cajal/blob/master/examples/MFTMA_VGG16_example.ipynb
 
 
-
-
-**Learning outcomes**
-
-  * Know how to train a deep learning model for object recognition
-  * Know how to measure its layers' neural manifold geometry (`dimensionality`, `radius`, `correlation`)
-  * Know how to measure its `information capacity`
 
 * **Readings**
 
