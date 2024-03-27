@@ -394,7 +394,6 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 ## **17. Hands-on: Information capacity**
 
 **Learning outcomes**:
-
   * Know how to train a deep learning model for object recognition
   * Know how to measure its layers' neural manifold geometry (`dimensionality`, `radius`, `correlation`)
   * Know how to measure its `information capacity`.
@@ -412,6 +411,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
   * machine learning with `scikit-learn` and `pytorch` libraries
 
 **Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/17_handson_information_capacity.ipynb).
+
 
 
 ## Hands-on: Use Allen Institute SDK
