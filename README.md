@@ -365,10 +365,31 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
+## Hands-on: Decoding movies from V1
 
-## Hands-on: Decoding with conv pivae
+**Learning outcomes**:
 
-## Hands-on: Decoding V1
+  * Extract neural manifolds for different neural recording modalities (ca-imaging and neuropixels)
+  * Compare neural manifolds in V1 evoked by movies features (DINO features) for different recording modalities
+  * Extract neural manifolds that are consistent across neural recording modalities (Joint training)
+  * Decode movie frames
+  * Measure the inter and intra-area `linear consistencies` of the neural manifolds
+
+**Readings**:
+
+  * de Vries, S. E., Lecoq, J. A., Buice, M. A., Groblewski, P. A., Ocker, G. K., Oliver, M., ... & Koch, C. (2020). A large-scale standardized physiological survey reveals functional organization of the mouse visual cortex. Nature neuroscience, 23(1), 138-151.
+  * Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368.
+
+**Python prerequisites**:
+
+  * installing and importing `libraries`
+  * using `functions`
+  * plotting with `matplotlib` library
+  * machine learning with `scikit-learn` and `pytorch` libraries
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/16_handson_decoding_V1.ipynb).
+
+
 
 ## Hands-on: Information capacity
 
