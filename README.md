@@ -393,6 +393,18 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 ## **17. Hands-on: Information capacity**
 
+**Learning outcomes**:
+
+  * Extract neural manifolds for different neural recording modalities (ca-imaging and neuropixels)
+  * Compare neural manifolds in V1 evoked by movies features (DINO features) for different recording modalities
+  * Extract neural manifolds that are consistent across neural recording modalities (Joint training)
+  * Decode movie frames
+  * Measure the inter and intra-area `linear consistencies` of the neural manifolds
+
+
+
+
+
 **Learning outcomes**
 
   * Know how to train a deep learning model for object recognition
