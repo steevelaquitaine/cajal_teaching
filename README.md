@@ -365,7 +365,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## Hands-on: Decoding movies from V1
+## **16. Hands-on: Decoding movies from V1**
 
 **Learning outcomes**:
 
@@ -391,7 +391,28 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## Hands-on: Information capacity
+## **17. Hands-on: Information capacity**
+
+**Learning outcomes**:
+
+  * Know how to train a deep learning model for object recognition
+  * Know how to measure its layers' neural manifold geometry (`dimensionality`, `radius`, `correlation`)
+  * Know how to measure its `information capacity`.
+
+* **Readings**
+
+  * Stephenson, C., Feather, J., Padhy, S., Elibol, O., Tang, H., McDermott, J., & Chung, S. (2019). Untangling in invariant speech recognition. Advances in neural information processing systems, 32.
+  * https://github.com/steevelaquitaine/neural_manifolds_replicaMFT_Cajal/blob/master/examples/MFTMA_VGG16_example.ipynb
+
+**Python prerequisites**:
+
+  * installing and importing `libraries`
+  * using `functions`
+  * plotting with `matplotlib` library
+  * machine learning with `scikit-learn` and `pytorch` libraries
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/17_handson_information_capacity.ipynb).
+
 
 ## Hands-on: Use Allen Institute SDK
 
