@@ -294,7 +294,7 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## **13. Hands-on: Topology data analysis**
+## **13. Theory: Topology data analysis**
 
 **Learning outcomes:** 
 
@@ -320,8 +320,26 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
     
-## Hands-on: Model selection
+## **14. Hands-on: Topology data analysis**
 
+**Learning outcomes**:
+
+  * know how to <u>describe the topological structure of neural manifolds</u> by using `persistent homology analysis` (N-dimensional holes or co-cycles, barcodes, Betti numbers).
+  * know how to visualize CEBRA embeddings into circular coordinates.
+
+**Readings**:
+
+  * Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368. see [Figure 2.e.-g.](https://cebra.ai/docs/cebra-figures/figures/Figure2.html) of Schneider, Lee, Mathis.
+  * Curto, C. What can topology tell us about the neural code? Bull. Am. Math. Soc 54, 63-78 (2016).
+  * Rybakkena, E., Baasa, N., & Dunnb, B. (2017). Decoding of neural data using cohomological learning.
+  * Gardner, R. J., Hermansen, E., Pachitariu, M., Burak, Y., Baas, N. A., Dunn, B. A., ... & Moser, E. I. (2022). Toroidal topology of population activity in grid cells. Nature, 602(7895), 123-128.
+
+**Python prerequisites**:
+
+  * installing and importing `libraries`
+  * plotting with `matplotlib` library
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/14_handson_topology_data_analysis.ipynb).
 
 
 ## Hands-on: Decoding with conv pivae
