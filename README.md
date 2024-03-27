@@ -416,10 +416,56 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 
 
-## Hands-on: Use Allen Institute SDK
+## **18. Hands-on open datasets: Allen Institute SDK**
 
-## Hands-on: Use Dandi Archive
+**Learning outcomes**:
 
-## Hands-on: Use Figshare
+  * know how to access experiment metadata and data streams
+  * know how to download and organize neuropixels and ca-imaging experiment data according to cortical area, imaging depth, and Cre line
+  * know how to transform and analyze data
+
+**Methodology**:
+  
+  * Analysis of neuropixels recordings and ca-imaging of cortical activity in mice viewing natural scenes (de Vries et al., 2020, Allen Institute dataset)
+
+**Readings**:
+
+  * de Vries, S. E., Lecoq, J. A., Buice, M. A., Groblewski, P. A., Ocker, G. K., Oliver, M., ... & Koch, C. (2020). A large-scale standardized physiological survey reveals functional organization of the mouse visual cortex. Nature neuroscience, 23(1), 138-151.
+  * https://allensdk.readthedocs.io/en/latest/_static/examples/nb/ecephys_session.html
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/18_handson_open_datasets_Allen_Institute_SDK.ipynb).
+
+
+
+    
+## **19. Hands-on open datasets: DANDI Archive**
+
+**Learning outcomes**:  
+
+  * Know how to retrieve and share standardized, reproducible datasets and code
+
+**Requirements**
+
+  * Github account
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/19_handson_open_datasets_DANDI_Archive.ipynb).
+
+
+
+
+## **20. Hands-on open datasets: Figshare**
+
+**Learning outcomes**:  
+
+  * Know how to retrieve and share standardized, reproducible datasets and code
+
+**Requirements**:
+
+  * You don't need an account to download public datasets such as the one used in the case study mice V1 (https://figshare.com/s/60adb075234c2cc51fa3).
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/20_handson_open_datasets_Figshare.ipynb).
+
+
+
 
 ## Hands-on: Use dataryad
