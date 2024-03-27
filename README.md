@@ -342,6 +342,30 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 **Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/14_handson_topology_data_analysis.ipynb).
 
 
+
+## **15. Hands-on: Model selection with decoding accuracy**
+
+**Learning outcomes**:
+
+  * know how to <u>decode labels</u> from a CEBRA manifold with the `kNN`
+  technique.
+  * know how to ensure <u>robust decoding</u> with `cross-validation`.
+  * know how to <u>evaluate and compare the decoding performances</u> for neural manifolds obtained from different hypotheses with `decoding median error` and `InfoNCE loss`.
+
+**Readings**: 
+
+  * Schneider, S., Lee, J. H., & Mathis, M. W. (2023). Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960), 360-368. see [Figure 2.d.](https://cebra.ai/docs/cebra-figures/figures/Figure2.html) of Schneider, Lee, Mathis.
+
+**Python prerequisites**:
+
+  * installing and importing `libraries`
+  * plotting with `matplotlib` library
+
+**Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevelaquitaine/cajal_teaching/blob/main/15_handson_model_selection_with_decoding.ipynb).
+
+
+
+
 ## Hands-on: Decoding with conv pivae
 
 ## Hands-on: Decoding V1
