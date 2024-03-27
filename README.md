@@ -393,10 +393,11 @@ Modern technical innovations now allow experimentalists to measure and manipulat
 
 ## **17. Hands-on: Information capacity**
 
-**Learning outcomes**:
+**Learning outcomes**
+
   * Know how to train a deep learning model for object recognition
   * Know how to measure its layers' neural manifold geometry (`dimensionality`, `radius`, `correlation`)
-  * Know how to measure its `information capacity`.
+  * Know how to measure its `information capacity`
 
 * **Readings**
 
